@@ -24,6 +24,7 @@ I'm a Melbourne-based Quality Analyst with a technical bent. Best contacted via 
 * Continuous Deployment 
 * Functional Programming
 
-## Recent Writing
+## Recent 
 
-* [To lost loves](./blog/2023/11/22/f1rst.html)
+* [Jest, ESM and the long tail](./articles/jest-esm.html)
+* [Jekyll and Hyde: the emotional rollercoaster of adoption](./blog/2023/11/22/f1rst.html)
