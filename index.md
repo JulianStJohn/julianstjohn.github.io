@@ -7,7 +7,7 @@ title: home
 ---
 
 ![](/assets/images/portrait-wide.jpg){: width="250" style="float: right; padding-top: 10px;"  }
-I'm a Melbourne-based Quality Analyst with a technical bent. Best contacted via [linkedin](https://www.linkedin.com/in/julianstjohn/)
+I'm a Melbourne-based Software QA focussing on Automated Browser, API and Data testing. Aspiring SDET. Best contacted via [linkedin](https://www.linkedin.com/in/julianstjohn/)
 
 ## Values
 
