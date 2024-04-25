@@ -17,8 +17,9 @@ I'm a Melbourne-based Software QA focussing on Automated Browser, API and Data t
 
 ## Favourite Things
 
-* Well-designed, robustly implemented test automation 
-* Cloud computing, especially containerisation
+* Well-designed, robustly implemented test automation on
+  * Disposable containerised test environments, driven by 
+  * Structured, intentional test data 
 * Test-Driven Development
 * Feature-Driven Development
 * Continuous Deployment 
