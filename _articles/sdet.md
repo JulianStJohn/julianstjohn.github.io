@@ -1,8 +1,8 @@
 ---
 topic: testing
-title: SDET and other atrocious names for testers 
+title: Titles for testers 
 layout: default
-published: yes 
+published: no 
 ---
 
 
