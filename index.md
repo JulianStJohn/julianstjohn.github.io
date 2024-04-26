@@ -6,8 +6,11 @@ layout: default
 title: home
 ---
 
-![](/assets/images/portrait-wide.jpg){: width="250" style="float: right; padding-top: 10px;"  }
-I'm a Melbourne-based Software QA focussing on Automated Browser, API and Data testing. Aspiring SDET. Best contacted via [linkedin](https://www.linkedin.com/in/julianstjohn/)
+![](/assets/images/portrait-circular.png){: width="250" style="float: right; padding-top: 10px;"  }
+I'm a Melbourne-based Software QA focussing on Automated Browser, API and Data testing. Aspiring SDET. 
+
+* [linkedin](https://www.linkedin.com/in/julianstjohn/)
+* [github](https://www.github.com/julianstjohn)
 
 ## Values
 
@@ -18,14 +21,14 @@ I'm a Melbourne-based Software QA focussing on Automated Browser, API and Data t
 ## Favourite Things
 
 * Well-designed, robustly implemented test automation on
-  * Disposable containerised test environments, driven by 
-  * Structured, intentional test data 
+  * disposable containerised test environments, driven by 
+  * structured, intentional test data 
 * Test-Driven Development
-* Feature-Driven Development
 * Continuous Deployment 
 * Functional Programming
 
 ## Recent 
 
+* [Playwright tips](./articles/playwright-tips.html)
 * [Jest, ESM and the long tail](./articles/jest-esm.html)
 * [Jekyll and Hyde: the emotional rollercoaster of adoption](./blog/2023/11/22/f1rst.html)
