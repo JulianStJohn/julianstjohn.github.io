@@ -17,4 +17,4 @@ It was August before I summoned up the gumption to review **totally reasonable r
 
 I had circled the prospect of getting into 40k minature painting as a mature age geek for at least 3 years. If you know, you know. My high school mates had been chaos, eldar, and imperium epic players - I never had the pocket money to match them and would just watch enviously. The hobby enjoyed an explosion of interest over the covid lockdowns - to the point where buying and reselling boxes at a substantial mark up became a viable business. But I never made the plunge - I reasoned that my aged eyes and manual dexterity were not up to the task of putting 3 dots and an underline on the pixel-sized adeptes astartes visor as the gun tiktok miniature painters recommended. But Susi gave me a starter pack, and eventually I gave it go - I didn't have to make it perfect, I just had to make it mine. Abandoning perfection seems to be a good first step on the road to competency. 
 
-So if I could abandon lofty goals of 
+If abandoning perfection allowed me to take up miniature painting, maybe abandoning pefection could help reading my dozen books.
