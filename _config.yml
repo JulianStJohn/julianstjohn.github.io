@@ -29,6 +29,8 @@ twitter_username: julianstjohn
 github_username: julianstjohn 
 linkedin_username: julianstjohn 
 
+google_analytics: G-12EVJQSGQW
+
 # Build settings
 theme: minima
 plugins:
